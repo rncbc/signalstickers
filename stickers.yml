@@ -24277,3 +24277,12 @@ a55f56b74731a4f8fd31ddb69a716689:
   nsfw: false
   original: false
   animated: false
+97a869fe0162e72fc1e340172f54ed6c:
+  key: 3b44b8f43c52424c945657de1283951ba7da1c6390f7159a216ee1d99a8bc274
+  source: 'rncbc.org'
+  tags:
+    - Corona
+    - Emoji
+  nsfw: false
+  original: true
+  animated: false
